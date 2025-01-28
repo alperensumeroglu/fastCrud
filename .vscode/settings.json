@@ -1,0 +1,25 @@
+{
+    "editor.fontSize": 14,
+    "editor.accessibilitySupport": "on",
+    "workbench.colorTheme": "Dainty – Material Theme Palenight (chroma 4, lightness 0)",
+    "git.autofetch": true,
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "none",
+    "debugpy.showPythonInlineValues": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.showWords": true,
+    "editor.suggest.showClasses": true,
+    "editor.suggest.showFunctions": true,
+    "editor.suggest.showVariables": true,
+    "editor.suggest.showModules": true,
+    "editor.suggest.showKeywords": true,
+    "editor.parameterHints.enabled": true,
+    "python.languageServer": "Pylance",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.analysis.extraPaths": ["./"]
+}
